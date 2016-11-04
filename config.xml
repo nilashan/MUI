@@ -16,5 +16,5 @@
   <author href="https://www.nilashan.com">
       Nilashan
   </author>
-
+  <preference name="Fullscreen" value="true" />
 </widget>
